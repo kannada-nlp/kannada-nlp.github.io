@@ -1,10 +1,17 @@
 # Kannada NLP
 ISO 639-3 : `kan`
+
 Autonym: `ಕನ್ನಡ`
-ScriptSource : (here)[https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Knda]
-Kannada in Wikipedia: [here] (https://en.wikipedia.org/wiki/Kannada)
-Kannada in Ethnalogue: [here](https://www.ethnologue.com/language/kan/)
-Kannada in WALS: [here](https://wals.info/languoid/lect/wals_code_knd)
+
+ScriptSource : (here)[https://scriptsource.org/cms/scripts/page.php?
+item_id=script_detail&key=Knda]
+
+Wikipedia entry: [here] (https://en.wikipedia.org/wiki/Kannada)
+
+Ethnalogue entry: [here](https://www.ethnologue.com/language/kan/)
+
+WALS entry: [here](https://wals.info/languoid/lect/wals_code_knd)
+
 ## Resources Tracker
 The following sheet is an attempt to track Kannada NLP Resources currently maintained by [Abhishek Purushothama](https://abhishek-p.github.io/)
 
