@@ -3,10 +3,9 @@ ISO 639-3 : `kan`
 
 Autonym: `ಕನ್ನಡ`
 
-ScriptSource : (here)[https://scriptsource.org/cms/scripts/page.php?
-item_id=script_detail&key=Knda]
+ScriptSource : (here)[https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Knda]
 
-Wikipedia entry: [here] (https://en.wikipedia.org/wiki/Kannada)
+Wikipedia entry: [here](https://en.wikipedia.org/wiki/Kannada)
 
 Ethnalogue entry: [here](https://www.ethnologue.com/language/kan/)
 
